@@ -11,22 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Languages and Cultures of Southeast Asia, University of Hamburg, 2022
+* M.A. in Digital Humanities, Linnaeus University, 2023
+* M.A. in Languages and Cultures of Southeast Asia, University of Hamburg, 2023 (expected)
 
-Work experience
+Study Abroad
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research internship
+  * February 2023 – present
+  * Gadjah Mada University (Yogyakarta, Indonesia) and the École française d'Extrême- Orient (Jakarta, Indonesia)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Dual online semester abroad
+  * September 2020 – January 2021
+  * German-Jordanian-University (Amman, Jordan) and Gadjah Mada University (Yogyakarta, Indonesia)
+
+Work and research experience
+======
+* Researcher
+  * Student research project titled “[Computational Analysis of the Cultural Influences of Malay Music in the 20th Century](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/zweite-foerderrunde/malaiische-musik.html)”
+  * Financed by the Digital and Data Literacy in Teaching Lab of the University of Hamburg, April 2023 – April 2024
+––Automated data collection (web scraping and APIs)<br>
+––Information retrieval (rules-based information extraction and named entity recognition)
+
+* Research assistant at the DFG financed research project “[Buddhist Positioning in the People’s Republic of China (1978- 2023)](https://www.buddhismuskunde.uni-hamburg.de/en/projekte/buddhistpositioning)”, September 2022 – July 2023
+
+* Intern at the German Association for Asian Studies in Hamburg, August 2021 – December 2021<br>
+––Database design<br>
+-–Database development<br>
+-–Research
+
+* Team leader of a student research project titled “[Between Church and Mosque—Transformation of (Inter)Religious Sites in Western Europe](https://www.isa.uni-hamburg.de/studentischeforschungsgruppen/zwischen-kirche-und-moschee.html)“ financed by the university college in Hamburg and the German Federal Ministry of Education and Research, November 2020 – April 2022.<br>
+––[Associated Conference Proceeding](http://dx.doi.org/10.56776/2d5f4705.59049c59).
+
 Skills
 ======
 * Skill 1
