@@ -1,13 +1,13 @@
 ---
 title: "Cerpen Map"
 excerpt: "This map shows the global distribution of toponyms in a corpus of approximately 3000 short stories published between 2010 and 2019 in Indonesian newspapers.<br><br/><img src='/images/cerpen_map.png'>"
-collection: portfolio
+collection: projects
 ---
 
 This map shows the global distribution of toponyms in a corpus of approximately 3000 short stories published between 2010 and 2019 in Indonesian newspapers.
 
 
-The Map
+The Interactive Map
 ======
 
 {% raw %}

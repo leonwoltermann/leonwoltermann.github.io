@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Leon Woltermann"
+  },
+  "text": {
+    "more": "Topic id\tTerm\tWeight\ntopic_0\tindonesia\t1638\ntopic_0\tindonesian\t1043\ntopic_0\tmalay\t899\ntopic_0\tprovince\t628\ntopic_0\teast\t617\ntopic_0\tdutch\t561\ntopic_0\tsumatra\t537\ntopic_0\tjava\t535\ntopic_0\tpeople\t526\ntopic_0\tisland\t457\ntopic_1\tlanguage\t2174\ntopic_1\tlanguages\t1353\ntopic_1\tchinese\t798\ntopic_1\tspoken\t737\ntopic_1\tpeople\t582\ntopic_1\tmalay\t490\ntopic_1\tethnic\t402\ntopic_1\tenglish\t358\ntopic_1\tspeakers\t346\ntopic_1\tofficial\t340\ntopic_2\tempire\t1307\ntopic_2\twar\t1194\ntopic_2\ts\t566\ntopic_2\teurope\t522\ntopic_2\tcentury\t468\ntopic_2\tkingdom\t426\ntopic_2\tperiod\t419\ntopic_2\tjapanese\t417\ntopic_2\tjapan\t410\ntopic_2\tworld\t395\ntopic_3\tcountry\t1831\ntopic_3\ts\t1600\ntopic_3\tworld\t1486\ntopic_3\tpopulation\t890\ntopic_3\tlargest\t793\ntopic_3\tcity\t792\ntopic_3\tsouth\t664\ntopic_3\trepublic\t623\ntopic_3\tnations\t613\ntopic_3\tmillion\t611\ntopic_4\tnational\t421\ntopic_4\ts\t409\ntopic_4\tworld\t334\ntopic_4\tuniversity\t307\ntopic_4\tcultural\t264\ntopic_4\tculture\t258\ntopic_4\thuman\t243\ntopic_4\tterm\t234\ntopic_4\tsocial\t229\ntopic_4\trights\t224\ntopic_5\tbritish\t1520\ntopic_5\tislands\t1160\ntopic_5\tisland\t977\ntopic_5\tcolony\t967\ntopic_5\tterritory\t715\ntopic_5\tunited\t685\ntopic_5\ts\t661\ntopic_5\tspanish\t628\ntopic_5\tsouth\t499\ntopic_5\tkingdom\t452\ntopic_6\tcuisine\t584\ntopic_6\tna\t487\ntopic_6\tfood\t261\ntopic_6\tindonesian\t223\ntopic_6\tindian\t221\ntopic_6\tsri\t220\ntopic_6\tindonesia\t219\ntopic_6\trice\t214\ntopic_6\tdishes\t206\ntopic_6\tlanka\t200\ntopic_7\tsea\t1743\ntopic_7\tocean\t758\ntopic_7\tisland\t696\ntopic_7\tislands\t667\ntopic_7\tsouth\t512\ntopic_7\tmi\t461\ntopic_7\tnorth\t445\ntopic_7\tgulf\t403\ntopic_7\ts\t392\ntopic_7\teast\t387\ntopic_8\tmalaysia\t1600\ntopic_8\tgovernment\t775\ntopic_8\tmalay\t594\ntopic_8\tmalaysian\t581\ntopic_8\ts\t578\ntopic_8\tbritish\t395\ntopic_8\tsingapore\t387\ntopic_8\tminister\t331\ntopic_8\tnational\t304\ntopic_8\tsarawak\t267\ntopic_9\tempire\t1344\ntopic_9\tdynasty\t913\ntopic_9\tcentury\t639\ntopic_9\tperiod\t573\ntopic_9\tkingdom\t559\ntopic_9\ts\t527\ntopic_9\tbc\t459\ntopic_9\tegypt\t363\ntopic_9\tarab\t314\ntopic_9\tmuslim\t296",
+    "intro": "",
+    "title": "The Malay World Through Wikipedia Hyperlinks"
+  },
+  "legend": {
+    "edgeLabel": "Hyperlink",
+    "colorLabel": "Topic",
+    "nodeLabel": "Wikipedia Page"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "assigned topic",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

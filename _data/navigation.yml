@@ -3,20 +3,22 @@ main:
   - title: "Projects"
     url: /projects/
   
-  - title: "Portfolio"
-    url: /portfolio/
-
+  - title: "Talks"
+    url: /talks/
+  
   - title: "Publications"
     url: /publications/    
 
   - title: "CV"
     url: /cv/    
 
-  - title: "Talks"
-    url: /talks/
 
-  - title: "Workshops"
-    url: /workshops/
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+
+#  - title: "Workshops"
+#    url: /workshops/
 
 
 
