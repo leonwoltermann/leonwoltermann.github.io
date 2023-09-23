@@ -1,7 +1,7 @@
 ---
 title: "Reception of my Pidato in Malaysian Televisionp"
 excerpt: "The YouTube video that reacting to my pidato (Indoesian or Malay for speech) in Malaysian television.<br><br/><img src='/images/pidato_reception.png'>"
-collection: portfolio
+collection: other
 ---
 
 

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leon Woltermann / My Website"
+title                    : "Leon Woltermann"
 title_separator          : "-"
 name                     : &name "Leon Woltermann"
 description              : &description "This is me..."
 url                      : https://leonwoltermann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "leonwoltermann/leonwoltermann.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,16 +85,16 @@ author:
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  leon.woltermann@gmx.de
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Leon-Woltermann"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : #Leon Woltermann
   foursquare       :
   github           : #"academicpages"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -181,15 +181,21 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+  other:
+    output: true
+    permalink: /:collection/:path/
+
+
+
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 
@@ -263,6 +269,13 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: other
     values:
       layout: single
       author_profile: true
