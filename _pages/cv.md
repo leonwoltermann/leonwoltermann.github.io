@@ -1,75 +1,87 @@
 ---
-layout: archive
-title: "CV"
+layout: cv
+title: Isaac Newtons's CV
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Currently
 
-Education
-======
-* B.A. in Languages and Cultures of Southeast Asia, University of Hamburg, 2022
-* M.A. in Digital Humanities, Linnaeus University, 2023
-* M.A. in Languages and Cultures of Southeast Asia, University of Hamburg, 2023 (expected)
+Standing on the shoulders of giants
 
-Study Abroad
-======
-* Research internship
-  * February 2023 – present
-  * Gadjah Mada University (Yogyakarta, Indonesia) and the École française d'Extrême- Orient (Jakarta, Indonesia)
+### Specialized in
 
-* Dual online semester abroad
-  * September 2020 – January 2021
-  * German-Jordanian-University (Amman, Jordan) and Gadjah Mada University (Yogyakarta, Indonesia)
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-Work and research experience
-======
-* Researcher
-  * Student research project titled “[Computational Analysis of the Cultural Influences of Malay Music in the 20th Century](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/zweite-foerderrunde/malaiische-musik.html)”
-  * Financed by the Digital and Data Literacy in Teaching Lab of the University of Hamburg, April 2023 – April 2024
-––Automated data collection (web scraping and APIs)<br>
-––Information retrieval (rules-based information extraction and named entity recognition)
 
-* Research assistant at the DFG financed research project “[Buddhist Positioning in the People’s Republic of China (1978- 2023)](https://www.buddhismuskunde.uni-hamburg.de/en/projekte/buddhistpositioning)”, September 2022 – July 2023
+### Research interests
 
-* Intern at the German Association for Asian Studies in Hamburg, August 2021 – December 2021<br>
-––Database design<br>
--–Database development<br>
--–Research
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
-* Team leader of a student research project titled “[Between Church and Mosque—Transformation of (Inter)Religious Sites in Western Europe](https://www.isa.uni-hamburg.de/studentischeforschungsgruppen/zwischen-kirche-und-moschee.html)“ financed by the university college in Hamburg and the German Federal Ministry of Education and Research, November 2020 – April 2022.<br>
-––[Associated Conference Proceeding](http://dx.doi.org/10.56776/2d5f4705.59049c59).
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+`1654-1660`
+__The King's School, Grantham.__
+
+- bbsdsd
+
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
+
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
+
+
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
