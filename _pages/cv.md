@@ -24,19 +24,19 @@ __B.A. in Languages and Cultures of Souteast Asia, University of Hamburg__
 
 ## Research and Practical Experience
 
-`April 2023 - April 2024`
+`04/2023 – 04/2024`
 **Researcher**, Student research project titled “[Computational Analysis of the Cultural Influences of Malay Music in the 20th Century](https://www.isa.uni-hamburg.de/ddlitlab/data-literacy-studierendenprojekte/zweite-foerderrunde/malaiische-musik.html)” financed by the Digital and Data Literacy in Teaching Lab of the University of Hamburg
 
-`September 2022 – July 2023`
+`09/2022 – 07/2023`
 **Research assistant**, DFG financed research project “[Buddhist Positioning in the People’s Republic of China (1978- 2023)](https://www.buddhismuskunde.uni-hamburg.de/en/projekte/buddhistpositioning)”
 
-`August 2021 – December 2021`
+`08/2021 – 12/2021`
 **Intern**, German Association for Asian Studies in Hamburg
 - Database design
 - Database development
 - Research
 
-`November 2020 – April 2022`
+`11/2020 – 04/2022`
 **Team leader**, Student research project titled “[Between Church and Mosque—Transformation of (Inter)Religious Sites in Western Europe](https://www.isa.uni-hamburg.de/studentischeforschungsgruppen/zwischen-kirche-und-moschee.html)“ financed by the university college in Hamburg and the German Federal Ministry of Education and Research
 - [Associated Conference Proceeding](http://dx.doi.org/10.56776/2d5f4705.59049c59).
 
