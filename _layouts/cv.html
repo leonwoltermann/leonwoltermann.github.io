@@ -54,7 +54,7 @@ layout: default
 
           #content p {
             position: relative;
-            left: 25%;
+            left: 10%; /*before 25% also in ul */
             margin-bottom: 0.7em;
             margin-right: 0;
             width: 60%;
@@ -71,13 +71,14 @@ layout: default
           #content p code {
             position: absolute;
             text-align: right;
-            right: -80%;
+            right: -80%; /*before -80% also in ul */
+            overflow-x: hidden;
           }
 
 
           #content ul {
             position: relative;
-            left: 25%;
+            left: 10%; /*before 25%*/
             width: 75%;
             margin-bottom: 1.5em;
             margin-top: -0.5em;
@@ -133,8 +134,8 @@ layout: default
             margin-top: 3em;
             position: relative;
             top: 1,4em;
-            text-align: right;
-            width: 20%;
+            text-align: left; /*before right*/
+            width: 30%; /*before 20%*/
           }
 
           #content h3 {

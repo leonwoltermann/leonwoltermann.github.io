@@ -10,11 +10,11 @@ Modularity
 ======
 Explanation
 
-Explore interactive network in [fullscreen](/projects/malay-world-network-modularity/index) (recommended)
+Explore interactive network in [fullscreen](/projects/malay-world-network-modularity/index) (recommended) (unfortunately not for smartphone)
 
 {% raw %}
 <div>
-<iframe src="/projects/malay-world-network-modularity/index" width="1000" height="700"  frameborder="0"></iframe>
+<iframe src="/projects/malay-world-network-modularity/index" width="100%" height="700" frameborder="0"></iframe>
 </div>
 {% endraw %}
 
@@ -30,11 +30,11 @@ Topic Modeling
 ======
 Explanation
 
-Explore interactive network in [fullscreen](/projects/malay-world-network-modularity/index) (recommended)
+Explore interactive network in [fullscreen](/projects/malay-world-network-modularity/index) (recommended) (unfortunately not for smartphone)
 
 {% raw %}
 <div>
-<iframe src="/projects/malay-world-network-topic/index" width="1000" height="700"  frameborder="0"></iframe>
+<iframe src="/projects/malay-world-network-topic/index" width="100%" height="700"  frameborder="0"></iframe>
 </div>
 {% endraw %}
 

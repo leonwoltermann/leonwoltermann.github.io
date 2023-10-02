@@ -22,8 +22,8 @@ Another essential feature of the map is the layer control in the top right corne
 
 
 {% raw %}
-<div>
-<iframe src="/projects/cerpen_map_file" width="800" height="500"  frameborder="0"></iframe>
+<div class="full-height">
+<iframe src="/projects/cerpen_map_file" width="100%" height="700" frameborder="0"></iframe>
 </div>
 {% endraw %}
 
