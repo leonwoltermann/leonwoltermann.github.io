@@ -1,11 +1,11 @@
 ---
 title: "The World Through the Lens of Indonesian Short Stories"
-excerpt: "In this project, I created an interactive map that visualizes the global distribution of toponyms in a corpus of 2720 Indonesian short stories published between 2010 and 2019 in 53 Indonesian national and locals periodicals. The map is intended to reveal common patterns of mental maps reproduced in Indonesian short stories and show the divergence of geographic and symbolic proximity in these mental maps. Besides, it can be used as a tool for exploring the representation of individual places around the world in Indonesian short stories.
-<br><br/><img src='/images/cerpen_map.png'>"
+excerpt: "In this project, I created an interactive map that visualizes the global distribution of toponyms in a corpus of 2720 Indonesian short stories published between 2010 and 2019 in 53 Indonesian national and local periodicals. The map is intended to reveal common patterns of mental maps reproduced in Indonesian short stories and show the divergence of geographic and symbolic proximity in these mental maps. Besides, it can be used as a tool for exploring the representation of individual places around the world in Indonesian short stories."
+#<br><br/> <img src='/images/cerpen_map.png'>"
 collection: projects
 ---
 
-In this project, I created an interactive map that visualizes the global distribution of toponyms in a corpus of 2720 Indonesian short stories published between 2010 and 2019 in 53 Indonesian national and locals periodicals. The map is intended to reveal common patterns of mental maps reproduced in Indonesian short stories and show the divergence of geographic and symbolic proximity in these mental maps. Besides, it can be used as a tool for exploring the representation of individual places around the world in Indonesian short stories.
+In this project, I created an interactive map that visualizes the global distribution of toponyms in a corpus of 2720 Indonesian short stories published between 2010 and 2019 in 53 Indonesian national and local periodicals. The map is intended to reveal common patterns of mental maps reproduced in Indonesian short stories and show the divergence of geographic and symbolic proximity in these mental maps. Besides, it can be used as a tool for exploring the representation of individual places around the world in Indonesian short stories.
 
 How to use
 ======
