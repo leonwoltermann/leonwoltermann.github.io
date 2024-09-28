@@ -1,0 +1,33 @@
+/* Apply full height to the body */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Styling for the frame */
+.frame {
+    width: 80vw;
+    height: 80vh;
+    background-color: #f0f0f0;
+    border: 2px solid #333;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* font-family: Arial, sans-serif; */
+    overflow: hidden;
+}
+
+pre {
+    font-family: monospace;
+    font-size: 10px;  /* Adjust font size */
+    white-space: pre; /* Ensure that whitespace is preserved */
+    margin: 0;        /* Optional: remove extra margin */
+    overflow-wrap: break-word; /* Allow wrapping of long lines if needed */
+    width: 100%;       /* Take full width of the frame */
+    height: 100%;  
+    padding: 0;     /* Optional: add padding */  
+    box-sizing: border-box;
+}
