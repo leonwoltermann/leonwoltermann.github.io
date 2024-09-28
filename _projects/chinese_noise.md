@@ -1,6 +1,6 @@
 ---
 title: "Chinese Noise"
-excerpt: 
+excerpt: Created using the perlin noise algorithm and Chinese characters.
 collection: projects
 ---
 
