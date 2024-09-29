@@ -31,3 +31,19 @@ pre {
     padding: 0;     /* Optional: add padding */  
     box-sizing: border-box;
 }
+
+button {
+    /* put the button below the frame and centered */
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    
+}
