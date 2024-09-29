@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Other"
+excerpt: Fun and interesting content that doesn't fit into the other categories.
 permalink: /other/
 author_profile: true
 ---

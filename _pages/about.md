@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website where I post updates about myself and stuff connected to my study. Feel free to explore and contact me if you have any inquiries.
+Welcome to my personal website, where I share updates about my life and interests related to my studies. Feel free to explore and reach out if you have any questions.
 
 Pages
 =======
 
-- **Projects:** information about projects I have been working on that generated some interactive output
-- **Talks:** a list of talks and presentation for which there are recordings online
-- **Research Posters:** a list of research posters I have presented on conferences
-- **Publication:** a list of my published writings
-- **CV:** an online version of my CV
-- **Others:** funny and interesting stuff that is not related to the other categories
+- [**Projects:**](/projects/) Discover the projects I've worked on, featuring interactive elements.
+- [**Talks:**](/talks/) Browse recordings of my talks and presentations.
+- [**Research Posters:**](/posters/) A collection of research posters I have presented at conferences.
+- [**Publication:**](/publications/) View a collection of my published writings.
+- [**CV:**](/cv/) Access an online version of my CV.
+- [**Generative Art:**](/art/) Explore a portfolio of some of my creative coding projects, showcasing unique and innovative digital art.
+- [**Other:**](/other/) Enjoy a selection of interesting and entertaining content that doesn't fit into other categories.
 

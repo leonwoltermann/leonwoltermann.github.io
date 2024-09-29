@@ -15,28 +15,8 @@ main:
   - title: "CV"
     url: /cv/    
 
+  - title: "Generative Art"
+    url: /art/    
+
   - title: "Other"
-    url: /other/  
-
-
-#  - title: "Portfolio"
-#    url: /portfolio/
-
-
-#  - title: "Workshops"
-#    url: /workshops/
-
-
-
-
-#- title: "Projects"
-#  url: /projects/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+    url: /other/
