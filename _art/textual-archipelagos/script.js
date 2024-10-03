@@ -4,13 +4,21 @@ const preWidth = parseInt(preStyles.width);
 const preHeight = parseInt(preStyles.height);
 const fontSize = parseInt(preStyles.fontSize);
 
-const charWidth = fontSize;
-const lineHeight = fontSize; 
+const charWidth = fontSize * 0.6;
+const lineHeight = fontSize * 1.2; 
+
+// Function to measure character width using a canvas
+function getCharacterWidth(char) {
+    const tempCanvas = document.createElement('canvas');
+    const context = tempCanvas.getContext('2d');
+    context.font = preStyles.font; // Set the font
+    return context.measureText(char).width; // Measure width
+}
 
 const charsPerLine = Math.floor(preWidth / charWidth);
 const totalLines = Math.floor(preHeight / lineHeight);
 
-const chars = " 一丨人大木口日目田星雪魚鳥楓龍瀑龍驕鬱靂龘";
+const chars = "一丨人大木口日目田星雪魚鳥楓龍瀑龍驕鬱靂龘";
 const charsLength = chars.length;
 
 const button = document.getElementById('button');
